@@ -1,3 +1,4 @@
+Pytest Screenshot:![alt text](<Screenshot from 2024-06-05 16-06-49.png>)![alt text](<Screenshot from 2024-06-05 16-07-49.png>)
 # Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 In this code challenge, you will be working with a Magazine domain.
